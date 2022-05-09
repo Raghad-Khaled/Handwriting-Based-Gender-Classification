@@ -1,2 +1,6 @@
 **/dataset
 .ipynb_checkpoints/
+.vscode/settings.json
+Notebooks/female_data.npy
+Notebooks/male_data.npy
+Notebooks/.vscode/settings.json
