@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 training
 training2
 testing
-=======
 **/dataset
 .ipynb_checkpoints/
 .vscode/settings.json
 Notebooks/female_data.npy
 Notebooks/male_data.npy
 Notebooks/.vscode/settings.json
->>>>>>> 9d9df6ac600411922f2cca296ac1801540d1c7f8
