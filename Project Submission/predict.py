@@ -1,13 +1,17 @@
 import time 
 import cv2
 import os
+"""
+to install it on conda => https://anaconda.org/conda-forge/python-dotenv
+"""
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # input files directories
-print("please input full test file directory")
-TEST_DIRECTORY = input()
+TEST_DIRECTORY = os.environ.get("TEST_DIRECTORY")
 
-print("please input full output file directory")
-OUTPUT_DIRECTORY = input()
+OUTPUT_DIRECTORY = os.environ.get("OUTPUT_DIRECTORY") 
 
 predicted_class = []
 time_list = []
