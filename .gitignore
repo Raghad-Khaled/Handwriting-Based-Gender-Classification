@@ -7,14 +7,11 @@ testing
 Notebooks/female_data.npy
 Notebooks/male_data.npy
 Notebooks/.vscode/settings.json
-<<<<<<< Updated upstream
 cmp23
 Notebooks/male_data_small.npy
 Notebooks/glcm_male.npy
 Notebooks/glcm_female.npy
 Notebooks/female_data_small.npy
-=======
 *.npy
 Notebooks/lol.jpg
->>>>>>> Stashed changes
 *.jpg
